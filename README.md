@@ -17,6 +17,10 @@ pnpm dev
 pnpm build
 ```
 
-### [Project Demo](https://react-todolist-hooks.netlify.app/)
-
 ![Project gif example](https://github.com/JesusJimenezC/ImagesExampleProjects/blob/master/todo-useReducer.gif?raw=true)
+
+## Contact
+
+Jesus Jimenez Cordero - [jesus.jimenez.mx@proton.me](mailto:jesus.jimenez.mx@proton.me)
+
+Project link: [TodoListReact - Demo](https://react-todolist-hooks.netlify.app/)
